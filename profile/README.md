@@ -6,8 +6,10 @@
 ・バックエンド：Laravel(PHP)  
 ・データベース：MySQL  
 ・インフラ：Amozon EC2, Amozon RDS, Amozon S3, AWS Lambda, EventBrige  
+・その他:Docker
 ### YOLOv5専用サーバー：[yolov5-server](https://github.com/projectd-team14/yolov5-server)  
 ・バックエンド：FastAPI(Python)  
 ・物体検出アルゴリズム：YOLOv5(Python)  
 ・インフラ：Amozon EC2  
+・その他:Docker  
 ![インフラ構成（図）](https://user-images.githubusercontent.com/71867595/200099190-e0a21fad-bfaf-481d-b8e7-183f1678bbee.png)  
