@@ -12,6 +12,10 @@
 ・物体検出アルゴリズム：YOLOv5(Python)  
 ・インフラ：Amozon EC2  
 ・その他:Docker  
+### 管理者用サーバー：[admin-server](https://github.com/projectd-team14/admin-server)  
+・バックエンド：Laravel(PHP)  
+・インフラ：Amozon EC2  
+・その他:Docker  
 ### 設計資料等：[design](https://github.com/projectd-team14/design)  
 ・DB設計（テーブル定義、ER図）  
 ・フローチャート（簡易版）  
