@@ -20,4 +20,4 @@
 ・DB設計（テーブル定義、ER図）  
 ・フローチャート（簡易版）  
 ・画面設計、イメージ等
-![インフラ構成（図）](https://user-images.githubusercontent.com/71867595/200099190-e0a21fad-bfaf-481d-b8e7-183f1678bbee.png)  
+![インフラ構成](https://user-images.githubusercontent.com/71867595/203118095-c53db8c2-600b-4bcf-8569-73c58dcd6862.png)
