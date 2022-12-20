@@ -1,5 +1,5 @@
 ## YOLOv5を利用した駐輪場管理システム  
-このプロジェクトは物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステムである。  
+物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステム。  
 ## システム構成・使用技術  
 ### システム基盤：[bicycle-system](https://github.com/projectd-team14/bicycle_system)    
 ・フロントエンド：Nuxt.js(Vue.js, Node.js, TypeScript, Sass)  
