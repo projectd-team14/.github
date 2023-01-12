@@ -1,4 +1,14 @@
 ## YOLOv5を利用した駐輪場管理システム  
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=plastic)
+![Laravel](https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic)
+![FastAPI](https://img.shields.io/badge/-FastAPI-66cdaa.svg?logo=&style=plastic)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=plastic)
+![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=plastic)
+![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
+![Sass](https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic)
+![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)  
 物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステム。  
 ## システム構成・使用技術  
 ### システム基盤：[bicycle-system](https://github.com/projectd-team14/bicycle_system)    
@@ -6,16 +16,13 @@
 ・バックエンド：Laravel(PHP)  
 ・データベース：MySQL  
 ・インフラ：Amozon EC2, Amozon RDS, Amozon S3, AWS Lambda, EventBrige  
-・その他:Docker
 ### YOLOv5専用サーバー：[yolov5-server](https://github.com/projectd-team14/yolov5-server)  
 ・バックエンド：FastAPI(Python)  
 ・物体検出アルゴリズム：YOLOv5(Python)  
 ・インフラ：Amozon EC2  
-・その他:Docker  
 ### 管理者用サーバー：[admin-server](https://github.com/projectd-team14/admin-server)  
 ・バックエンド：Laravel(PHP)  
 ・インフラ：Amozon EC2  
-・その他:Docker  
 ### 設計資料等：[design](https://github.com/projectd-team14/design)  
 ・DB設計（テーブル定義、ER図）  
 ・フローチャート（簡易版）  
