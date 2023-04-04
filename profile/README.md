@@ -10,4 +10,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)  
 物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステム。  
-![infrastructure01](https://user-images.githubusercontent.com/71867595/229308079-9d7439a4-fe81-4e81-9481-dad0679c3fb0.png)
+![infrastructure01](https://user-images.githubusercontent.com/71867595/229799187-90e808c5-70fd-49e9-b7c7-f52561e9d441.png)
