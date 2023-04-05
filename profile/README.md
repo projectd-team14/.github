@@ -11,6 +11,6 @@
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)  
 物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステム。  
 ## Infrastructure
-![infrastructure](https://user-images.githubusercontent.com/71867595/230167862-4fc392b9-579d-46ef-999a-a4577af98638.png)
+![infrastructure](https://user-images.githubusercontent.com/71867595/230168611-34a7f4fb-5409-497d-a0f9-773e59bfc722.png)
 ## CI/CD
 ![ci_cd](https://user-images.githubusercontent.com/71867595/230168256-d5fcc693-dcf4-45ad-a259-e0db33a8973b.png)
