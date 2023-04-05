@@ -12,4 +12,5 @@
 物体検出アルゴリズム[YOLOv5](https://github.com/ultralytics/yolov5)を用いて駐輪場の業務支援を行うことを目的としたWebシステム。  
 ## Infrastructure
 ![infrastructure01](https://user-images.githubusercontent.com/71867595/229799187-90e808c5-70fd-49e9-b7c7-f52561e9d441.png)
-## CI/CD![ci_cd](https://user-images.githubusercontent.com/71867595/230167611-d7aabdb9-5d70-4c89-a830-f6dae78ffbe7.png)
+## CI/CD
+![ci_cd](https://user-images.githubusercontent.com/71867595/230167611-d7aabdb9-5d70-4c89-a830-f6dae78ffbe7.png)
