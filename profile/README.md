@@ -13,4 +13,4 @@
 ## Infrastructure
 ![infrastructure](https://user-images.githubusercontent.com/71867595/230167862-4fc392b9-579d-46ef-999a-a4577af98638.png)
 ## CI/CD
-![ci_cd](https://user-images.githubusercontent.com/71867595/230167611-d7aabdb9-5d70-4c89-a830-f6dae78ffbe7.png)
+![ci_cd](https://user-images.githubusercontent.com/71867595/230168256-d5fcc693-dcf4-45ad-a259-e0db33a8973b.png)
